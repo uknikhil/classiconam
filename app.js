@@ -22,8 +22,8 @@ const sponsors = [
   { tier:'Media Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-6.svg' }
 ];
 const gallery = [
-  ['sample-pookalam.svg','Pookalam'],
-  ['sample-dance.svg','Cultural moments'],
+  ['gal5.jpg','2025'],
+  ['gal6.jpg','2025'],
   ['sample-sadhya.svg','Sadhya'],
   ['sample-games.svg','Onam games'],
   ['sample-community.svg','Community'],
