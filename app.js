@@ -12,10 +12,10 @@ const schedule = [
 ];
 const journey = [
   { year:'2022', title:'Where the memories began', text:'Our Onam journey at Signature Classic began in 2022, bringing our community together to celebrate the joy and spirit of Onam.', image:'2022.jpg' },
-  { year:'2023', title:'More colours, more togetherness', text:'Add your real 2023 highlights, games, cultural moments and community memories.', image:'sample-dance.svg' },
-  { year:'2024', title:'Traditions that bring us closer', text:'Add a short caption about the moments residents still talk about.', image:'2024.jpg' },
-  { year:'2025', title:'A celebration to remember', text:'Add your best 2025 photo and a short recap here.', image:'sample-games.svg' },
-  { year:'2026', title:'A new chapter begins', text:'This year’s edition becomes part of the Signature Classic story.', image:'onam-2026-poster.svg' }
+  { year:'2023', title:'More colours, more togetherness', text:'In 2023, our Onam celebration came alive as Aarppo 2023, bringing our community together in the true spirit of Onam.', image:'sample-dance.svg' },
+  { year:'2024', title:'Traditions that bring us closer', text:'In 2024, we celebrated Aavesham, filling Signature Classic with energy, joy and the vibrant spirit of Onam.', image:'2024.jpg' },
+  { year:'2025', title:'A celebration to remember', text:'In 2025, **Aavesham Thudarum** carried forward the energy, joy, and togetherness of our Onam celebrations.', image:'sample-games.svg' },
+  { year:'2026', title:'A new chapter begins', text:'In 2026, Prakambanam takes our Onam spirit to new heights with excitement, energy, and togetherness.', image:'onam-2026-poster.svg' }
 ];
 const sponsors = [
   { tier:'Title Partner', name:'Signature Dwellings', detail:'An award-winning real estate residential developer', logo:'Signature.jfif' },
