@@ -1,9 +1,9 @@
 const schedule = [
   { time:'05:00 PM', tag:'27th Sep 2026', title:'Onam Fest Market', desc:'Food, fashion, crafts, accessories and more by Signature Classic residents.' },
   { time:'03:00 PM', tag:'2nd Oct 2026', title:'Tug of War', desc:'A thrilling Onam tradition that brings teamwork, strength, laughter, and community spirit together.' },
+    { time:'06:00 PM', tag:'2nd Oct 2026', title:'Procession', desc:'A vibrant Onam procession bringing together tradition, music, colors, and community spirit.' },
   { time:'06:00 PM', tag:'2nd Oct 2026', title:'Mega Thiruvathira', desc:'A spectacular traditional dance bringing women together in rhythm, grace, and Onam spirit.' },
   { time:'07:00 PM', tag:'2nd Oct 2026', title:'Live Band Performance', desc:'An energetic live musical experience filled with rhythm, entertainment, and festive vibes.' },
-  { time:'07:00 AM', tag:'3rd Oct 2026', title:'Pookkalam', desc:'A beautiful floral celebration showcasing creativity, tradition, colors, and the spirit of Onam.' },
   { time:'09:00 AM', tag:'3rd Oct 2026', title:'Inauguration', desc:'Lighting the traditional lamp to warmly inaugurate our Onam celebrations with joy and togetherness.' },
   { time:'10:00 AM', tag:'3rd Oct 2026', title:'Games', desc:'Fun-filled traditional games bringing everyone together with laughter, excitement, and festive spirit.' },
    { time:'12:00 AM', tag:'3rd Oct 2026', title:'Sadhya', desc:'A grand traditional feast bringing everyone together to savour the authentic flavours of Onam.' },
