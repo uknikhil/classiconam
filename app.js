@@ -1,10 +1,14 @@
 const schedule = [
-  { time:'09:00 AM', tag:'ARRIVAL', title:'Welcome & Festive Kick-off', desc:'Registration, welcome desk and opening moments.' },
-  { time:'10:00 AM', tag:'TRADITION', title:'Pookalam & Cultural Start', desc:'Floral celebration, community participation and photos.' },
-  { time:'12:30 PM', tag:'FEAST', title:'Onam Sadhya', desc:'A traditional community feast served together.' },
-  { time:'03:00 PM', tag:'FUN', title:'Onam Games & Music', desc:'Friendly competitions, music and family activities.' },
-  { time:'05:30 PM', tag:'STAGE', title:'Cultural Programme', desc:'Dance, music and performances by our community.' },
-  { time:'07:30 PM', tag:'FINALE', title:'Prize Giving & Closing', desc:'Celebrate participants, partners and memorable moments.' }
+  { time:'05:00 PM', tag:'27th Sep 2026', title:'Onam Fest Market', desc:'Food, fashion, crafts, accessories and more by Signature Classic residents.' },
+  { time:'03:00 PM', tag:'2nd Oct 2026', title:'Tug of War', desc:'A traditional community feast served together.' },
+  { time:'06:00 PM', tag:'2nd Oct 2026', title:'Mega Thiruvathira', desc:'Floral celebration, community participation and photos.' },
+  { time:'07:00 PM', tag:'2nd Oct 2026', title:'Live Band Performance', desc:'A traditional community feast served together.' },
+  { time:'07:00 AM', tag:'3rd Oct 2026', title:'Pookkalam', desc:'Friendly competitions, music and family activities.' },
+  { time:'09:00 AM', tag:'3rd Oct 2026', title:'Programme Inauguration', desc:'Dance, music and performances by our community.' },
+  { time:'10:00 AM', tag:'3rd Oct 2026', title:'Games', desc:'Celebrate participants, partners and memorable moments.' },
+   { time:'12:00 AM', tag:'3rd Oct 2026', title:'Sadhya', desc:'Celebrate participants, partners and memorable moments.' },
+ { time:'04:00 PM', tag:'3rd Oct 2026', title:'Shinkarimelam', desc:'Celebrate participants, partners and memorable moments.' },
+ { time:'06:30 PM', tag:'3rd Oct 2026', title:'Cultural Program', desc:'Celebrate participants, partners and memorable moments.' }
 ];
 const journey = [
   { year:'2022', title:'Where the memories began', text:'Our Onam journey at Signature Classic began in 2022, bringing our community together to celebrate the joy and spirit of Onam.', image:'sample-pookalam.svg' },
@@ -15,7 +19,7 @@ const journey = [
 ];
 const sponsors = [
   { tier:'Title Partner', name:'Signature Dwellings', detail:'An award-winning real estate residential developer', logo:'Signature.jfif' },
-  { tier:'Gold Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-2.svg' },
+  { tier:'Gold Partner', name:'Divine Providence School', detail:'Co-educational, English-medium school affiliated with CBSE.', logo:'sample-sponsor-2.svg' },
   { tier:'Community Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-3.svg' },
   { tier:'Food Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-4.svg' },
   { tier:'Celebration Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-5.svg' },
