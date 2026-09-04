@@ -19,7 +19,7 @@ const journey = [
 ];
 const sponsors = [
   { tier:'Title Partner', name:'Signature Dwellings', detail:'An award-winning real estate residential developer', logo:'Signature.jfif' },
-  { tier:'Gold Partner', name:'Divine Providence School', detail:'Co-educational, English-medium school affiliated with CBSE.', logo:'sample-sponsor-2.svg' },
+  { tier:'Gold Partner', name:'Divine Providence School', detail:'Co-educational, English-medium school affiliated with CBSE.', logo:'Divine.jpg' },
   { tier:'Community Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-3.svg' },
   { tier:'Food Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-4.svg' },
   { tier:'Celebration Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-5.svg' },
