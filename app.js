@@ -29,7 +29,7 @@ const gallery = [
   ['gal5.jpg','2025'],
   ['gal6.jpg','2025'],
   ['gal7.jpeg','2025'],
-  ['sample-games.svg','Onam games'],
+  ['gal8.jpeg','2025'],
   ['sample-community.svg','Community'],
   ['sample-lamps.svg','Festive evenings']
 ];
