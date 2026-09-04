@@ -28,7 +28,7 @@ const sponsors = [
 const gallery = [
   ['gal5.jpg','2025'],
   ['gal6.jpg','2025'],
-  ['gal19.jpeg','2025'],
+  ['gl19.jpeg','2025'],
   ['gal8.jpeg','2025'],
   ['sample-community.svg','Community'],
   ['sample-lamps.svg','Festive evenings']
