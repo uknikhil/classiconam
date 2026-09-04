@@ -11,7 +11,7 @@ const schedule = [
  { time:'06:30 PM', tag:'3rd Oct 2026', title:'Cultural Program', desc:'A vibrant showcase of music, dance, and talent by our Signature Classic residents.' }
 ];
 const journey = [
-  { year:'2022', title:'Where the memories began', text:'Our Onam journey at Signature Classic began in 2022, bringing our community together to celebrate the joy and spirit of Onam.', image:'sample-pookalam.svg' },
+  { year:'2022', title:'Where the memories began', text:'Our Onam journey at Signature Classic began in 2022, bringing our community together to celebrate the joy and spirit of Onam.', image:'2022.jpg' },
   { year:'2023', title:'More colours, more togetherness', text:'Add your real 2023 highlights, games, cultural moments and community memories.', image:'sample-dance.svg' },
   { year:'2024', title:'Traditions that bring us closer', text:'Add a short caption about the moments residents still talk about.', image:'2024.jpg' },
   { year:'2025', title:'A celebration to remember', text:'Add your best 2025 photo and a short recap here.', image:'sample-games.svg' },
