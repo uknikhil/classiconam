@@ -30,8 +30,9 @@ const gallery = [
   ['gal6.jpg','2025'],
   ['gl19.jpeg','2025'],
   ['gal8.jpeg','2025'],
+  ['gal23.jpeg','2022'],
   ['gal21.jpeg','2024'],
-  ['gal23.jpeg','2022']
+   ['gal21.jpeg','2024']
 ];
 
 document.getElementById('scheduleGrid').innerHTML = schedule.map(x => `<article class="schedule-card reveal"><div><span class="tag">${x.tag}</span><h3>${x.title}</h3><p>${x.desc}</p></div><div class="time">${x.time}</div></article>`).join('');
