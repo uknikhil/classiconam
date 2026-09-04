@@ -31,7 +31,9 @@ const gallery = [
   ['sample-sadhya.svg','Sadhya'],
   ['sample-games.svg','Onam games'],
   ['sample-community.svg','Community'],
-  ['sample-lamps.svg','Festive evenings']
+  ['sample-lamps.svg','Festive evenings'],
+    ['gal7.jpg','2025'],
+      ['gal8.jpg','2025']
 ];
 
 document.getElementById('scheduleGrid').innerHTML = schedule.map(x => `<article class="schedule-card reveal"><div><span class="tag">${x.tag}</span><h3>${x.title}</h3><p>${x.desc}</p></div><div class="time">${x.time}</div></article>`).join('');
