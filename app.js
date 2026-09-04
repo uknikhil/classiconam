@@ -28,12 +28,10 @@ const sponsors = [
 const gallery = [
   ['gal5.jpg','2025'],
   ['gal6.jpg','2025'],
-  ['sample-sadhya.svg','Sadhya'],
+  ['gal7.jpeg','2025'],
   ['sample-games.svg','Onam games'],
   ['sample-community.svg','Community'],
-  ['sample-lamps.svg','Festive evenings'],
-    ['gal7.jpeg','2025'],
-      ['gal8.jpeg','2025']
+  ['sample-lamps.svg','Festive evenings']
 ];
 
 document.getElementById('scheduleGrid').innerHTML = schedule.map(x => `<article class="schedule-card reveal"><div><span class="tag">${x.tag}</span><h3>${x.title}</h3><p>${x.desc}</p></div><div class="time">${x.time}</div></article>`).join('');
