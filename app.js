@@ -12,7 +12,7 @@ const schedule = [
 ];
 const journey = [
   { year:'2022', title:'Where the memories began', text:'Our Onam journey at Signature Classic began in 2022, bringing our community together to celebrate the joy and spirit of Onam.', image:'2022.jpg' },
-  { year:'2023', title:'More colours, more togetherness', text:'In 2023, our Onam celebration came alive as Aarppo 2023, bringing our community together in the true spirit of Onam.', image:'sample-dance.svg' },
+  { year:'2023', title:'More colours, more togetherness', text:'In 2023, our Onam celebration came alive as Aarppo 2023, bringing our community together in the true spirit of Onam.', image:'2023.jpg' },
   { year:'2024', title:'Traditions that bring us closer', text:'In 2024, we celebrated Aavesham, filling Signature Classic with energy, joy and the vibrant spirit of Onam.', image:'2024.jpg' },
   { year:'2025', title:'A celebration to remember', text:'In 2025, Aavesham Thudarum carried forward the energy, joy, and togetherness of our Onam celebrations.', image:'2025.jpg' },
   { year:'2026', title:'A new chapter begins', text:'In 2026, Prakambanam takes our Onam spirit to new heights with excitement, energy, and togetherness.', image:'onam-2026-poster.jpg' }
