@@ -20,9 +20,9 @@ const journey = [
 const sponsors = [
   { tier:'Title Partner', name:'Signature Dwellings', detail:'An award-winning real estate residential developer.', logo:'Signature.jfif' },
   { tier:'Gold Partner', name:'Divine Providence School', detail:'Co-educational, English-medium school affiliated with CBSE.', logo:'Divine.jpg' },
-  { tier:'Community Partner', name:'Native Hues', detail:'Native Hues.', logo:'sample-sponsor-3.svg' },
-  { tier:'Food Partner', name:'Terrart', detail:'building-materials company specializing in natural, eco-friendly and terracotta products for homes and commercial projects.', logo:'sample-sponsor-4.svg' },
-  { tier:'Celebration Partner', name:'Prime Cut', detail:'Prime Cut is a fresh meat and seafood retail brand.', logo:'sample-sponsor-5.svg' },
+  { tier:'Community Partner', name:'Native Hues', detail:'Native Hues.', logo:'nativehues.jpg' },
+  { tier:'Food Partner', name:'Terrart', detail:'building-materials company specializing in natural, eco-friendly and terracotta products for homes and commercial projects.', logo:'terrart.jpg' },
+  { tier:'Celebration Partner', name:'Prime Cut', detail:'Prime Cut is a fresh meat and seafood retail brand.', logo:'primecut.jpg' },
   { tier:'Media Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-6.svg' },
   { tier:'Media Partner', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-6.svg' }
 ];
