@@ -1,14 +1,15 @@
 const schedule = [
   { time:'Onam Fest Market', tag:'27th Sep 2026', title:'05:00 PM', desc:'Food, fashion, crafts, accessories and more by Signature Classic residents.' },
-  { time:'03:00 PM', tag:'2nd Oct 2026', title:'Tug of War', desc:'A thrilling Onam tradition that brings teamwork, strength, laughter, and community spirit together.' },
-    { time:'06:00 PM', tag:'2nd Oct 2026', title:'Procession', desc:'A vibrant Onam procession bringing together tradition, music, colors, and community spirit.' },
-  { time:'06:00 PM', tag:'2nd Oct 2026', title:'Mega Thiruvathira', desc:'A spectacular traditional dance bringing women together in rhythm, grace, and Onam spirit.' },
-  { time:'07:00 PM', tag:'2nd Oct 2026', title:'Live Band Performance', desc:'An energetic live musical experience filled with rhythm, entertainment, and festive vibes.' },
-  { time:'09:00 AM', tag:'3rd Oct 2026', title:'Inauguration', desc:'Lighting the traditional lamp to warmly inaugurate our Onam celebrations with joy and togetherness.' },
-  { time:'10:00 AM', tag:'3rd Oct 2026', title:'Games', desc:'Fun-filled traditional games bringing everyone together with laughter, excitement, and festive spirit.' },
-   { time:'12:00 AM', tag:'3rd Oct 2026', title:'Sadhya', desc:'A grand traditional feast bringing everyone together to savour the authentic flavours of Onam.' },
- { time:'04:00 PM', tag:'3rd Oct 2026', title:'Shinkarimelam', desc:'A vibrant traditional percussion performance filling the celebration with energy, rhythm, and festive spirit.' },
- { time:'06:30 PM', tag:'3rd Oct 2026', title:'Cultural Program', desc:'A vibrant showcase of music, dance, and talent by our Signature Classic residents.' }
+  { time:'Tug of War', tag:'2nd Oct 2026', title:'03:00 PM', desc:'A thrilling Onam tradition that brings teamwork, strength, laughter, and community spirit together.' },
+    { time:'Shinkarimelam - Procession', tag:'2nd Oct 2026', title:'05:30 PM', desc:'A vibrant Onam procession bringing together tradition, music, colors, and community spirit.' },
+  { time:'Mega Thiruvathira', tag:'2nd Oct 2026', title:'06:00 PM', desc:'A spectacular traditional dance bringing women together in rhythm, grace, and Onam spirit.' },
+  { time:'Live Band Performance', tag:'2nd Oct 2026', title:'07:00 PM', desc:'An energetic live musical experience filled with rhythm, entertainment, and festive vibes.' },
+   { time:'Flower Carpet', tag:'3rd Oct 2026', title:'06:00 AM', desc:'A vibrant floral masterpiece celebrating creativity, tradition and color.' },
+  { time:'Inauguration', tag:'3rd Oct 2026', title:'09:00 AM', desc:'Lighting the traditional lamp to warmly inaugurate our Onam celebrations with joy and togetherness.' },
+  { time:'Games', tag:'3rd Oct 2026', title:'10:00 AM', desc:'Fun-filled traditional games bringing everyone together with laughter, excitement, and festive spirit.' },
+   { time:'Sadhya', tag:'3rd Oct 2026', title:'12:00 PM', desc:'A grand traditional feast bringing everyone together to savour the authentic flavours of Onam.' },
+ { time:'Procession', tag:'3rd Oct 2026', title:'04:00 PM', desc:'A vibrant traditional percussion performance filling the celebration with energy, rhythm, and festive spirit.' },
+ { time:'Cultural Program', tag:'3rd Oct 2026', title:'06:30 PM', desc:'A vibrant showcase of music, dance, and talent by our Signature Classic residents.' }
 ];
 const journey = [
   { year:'2022', title:'Where the memories began', text:'Our Onam journey at Signature Classic began in 2022, bringing our community together to celebrate the joy and spirit of Onam.', image:'2022.jpg' },
