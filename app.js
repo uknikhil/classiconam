@@ -1,5 +1,5 @@
 const schedule = [
-  { time:'Onam Fest Market', tag:'27th Sep 2026', title:'', desc:'Food, fashion, crafts, accessories and more by Signature Classic residents.' },
+  { time:'Onam Fest Market', tag:'27th Sep 2026', title:'05:00 PM', desc:'Food, fashion, crafts, accessories and more by Signature Classic residents.' },
   { time:'03:00 PM', tag:'2nd Oct 2026', title:'Tug of War', desc:'A thrilling Onam tradition that brings teamwork, strength, laughter, and community spirit together.' },
     { time:'06:00 PM', tag:'2nd Oct 2026', title:'Procession', desc:'A vibrant Onam procession bringing together tradition, music, colors, and community spirit.' },
   { time:'06:00 PM', tag:'2nd Oct 2026', title:'Mega Thiruvathira', desc:'A spectacular traditional dance bringing women together in rhythm, grace, and Onam spirit.' },
