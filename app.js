@@ -23,8 +23,8 @@ const sponsors = [
   { tier:'Gold Partner', name:'Divine Providence School', detail:'Co-educational, English-medium school affiliated with CBSE.', logo:'Divine.jpg' },
   { tier:'In Association With', name:'Nativehues', detail:'Branding * Designing * Book Publishing', logo:'Nativehues.jpeg' },
   { tier:'In Association With', name:'Terrart', detail:'building-materials company specializing in natural, eco-friendly and terracotta products for homes and commercial projects.', logo:'terrart.jpg' },
+   { tier:'In Association With', name:'B&W Ayurvedic', detail:'Healthy Body | Healthy Mind | Radiant Beauty', logo:'BandW.jpeg' },
   { tier:'In Association With', name:'Prime Cut', detail:'Prime Cut is a fresh meat and seafood retail brand.', logo:'primecut.jpg' },
-  { tier:'In Association With', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-6.svg' },
   { tier:'In Association With', name:'Your Brand Here', detail:'Replace with official sponsor name.', logo:'sample-sponsor-6.svg' }
 ];
 const gallery = [
