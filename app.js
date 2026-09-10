@@ -19,7 +19,7 @@ const journey = [
   { year:'2026', title:'A new chapter begins', text:'In 2026, Prakambanam takes our Onam spirit to new heights with excitement, energy, and togetherness.', image:'onam-2026-poster.jpg' }
 ];
 const sponsors = [
-  { tier:'Title Partner', name:'Signature Dwellings', detail:'An award-winning real estate residential developer.', logo:'Signature.jpeg' },
+  { tier:'Title Partner', name:'Signature Dwellings', detail:'An award-winning real estate residential developer.', logo:'Signature.jpeg' , url: 'https://www.signaturedwellings.com/'},
   { tier:'Gold Partner', name:'Divine Providence School', detail:'Co-educational, English-medium school affiliated with CBSE.', logo:'Divine.jpg' },
   { tier:'In Association With', name:'MarkON Homes', detail:'Trusted luxury villa developer in Bangalore', logo:'MarkONHomes.jpeg' },
      { tier:'In Association With', name:'B&W Ayurvedic', detail:'Healthy Body | Healthy Mind | Radiant Beauty', logo:'BandW.jpeg' },
