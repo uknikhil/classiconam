@@ -25,6 +25,11 @@ const sponsors = [
      { tier:'In Association With', name:'B&W Ayurvedic', detail:'Healthy Body | Healthy Mind | Radiant Beauty', logo:'BandW.jpeg' },
   { tier:'In Association With', name:'Nativehues', detail:'Branding * Designing * Book Publishing', logo:'Nativehues.jpeg' },
   { tier:'In Association With', name:'Terrart', detail:'Building-materials company specializing in natural, eco-friendly and terracotta products for homes and commercial projects.', logo:'terrart.jpg' },
+  
+    { tier:'In Association With', name:'Artilio Designs', detail:'Interior design and execution firm.', logo:'artilio.jpg' },
+    { tier:'In Association With', name:'AMA Ceramics', detail:'A prominent tiles and sanitaryware showroom and trading company.', logo:'AMA.jpeg' },
+    { tier:'In Association With', name:'Maruthi Ceramics', detail:'Tiles and sanitaryware retailer.', logo:'Maruthi.jpeg' },
+  
   { tier:'In Association With', name:'Prime Cut', detail:'Prime Cut is a fresh meat and seafood retail brand.', logo:'primecut.jpg' },
   { tier:'In Association With', name:'Ozmo Silks', detail:'The flagship family store', logo:'OzmoSilks.jpg' }
 ];
